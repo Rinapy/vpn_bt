@@ -24,7 +24,10 @@ Xiaomi Router AX3000T (256mb MediaTek Filogic 820) -- [Видео](https://www.y
 
 [mobaxterm](https://mobaxterm.mobatek.net/)
 
-[Видео](https://www.youtube.com/watch?v=rKbENP80ECo&ab_channel=RockBlack)\n[Текстовая инструкция](https://rockblack.pro/vpn/dopolnitelno/vless-keenetic)\n05 и 03 берём ниже\n04 генерируем из vlees ссылки
+[Видео](https://www.youtube.com/watch?v=rKbENP80ECo&ab_channel=RockBlack)
+[Текстовая инструкция](https://rockblack.pro/vpn/dopolnitelno/vless-keenetic)
+05 и 03 берём ниже
+04 генерируем из vlees ссылки
 
 ```json
 // 05_routing.json
@@ -123,5 +126,4 @@ Xiaomi Router AX3000T (256mb MediaTek Filogic 820) -- [Видео](https://www.y
   ]
 }
 ```
-
-\n[Генератор outbound из vlees](https://rockblack.pro/xkeen_generator)
+[Генератор outbound из vlees](https://rockblack.pro/xkeen_generator)
