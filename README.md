@@ -10,14 +10,14 @@
 
 Подходящие модели (их много в основном все современные роутеры кроме тех у кого процессор qualcom)\nВот свежая [статья](https://habr.com/ru/articles/842210/) которая поможет выбрать роутер  
 
-Xiaomi Router AX3000T (256mb MediaTek Filogic 820) -- [Видео](https://www.youtube.com/watch?v=Cx7kpqfwJP0&ab_channel=3DHOST) [Текстовая инструкция](https://3dh.su/posts/370/ustanovka-3dhost-proxy-na-router) отдельный удобный метод прошивки
+Xiaomi Router AX3000T (256mb MediaTek Filogic 820) -- [Видео](https://www.youtube.com/watch?v=Cx7kpqfwJP0&ab_channel=3DHOST) или [Текстовая инструкция](https://3dh.su/posts/370/ustanovka-3dhost-proxy-na-router) отдельный удобный метод прошивки
 
 Остальные роутеры будут шиться иначе, лучше искать видео инструкции под те роутеры которые есть возможность купить, а не покупать и уже потом искать
 
 **ВАЖНЫМ АСПЕКТОМ ЯВЛЯЯЕТЬСЯ ОБЪЁМ ПАМЯТИ НА РОУТЕРЕ 256** mb желательный минимум для v2ray
 
 По настройкам делаем все как на видео за исключением шага с настройкой v2rayA
-[Image alt](https://github.com/Rinapy/vpn_bt/raw/main/image.png)
+![Настройки](https://github.com/Rinapy/vpn_bt/raw/main/image.png)
 
 
 ## Keenetic
