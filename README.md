@@ -9,6 +9,7 @@
 ## Openwrt
 
 Подходящие модели (их много в основном все современные роутеры кроме тех у кого процессор qualcom)
+
 Вот свежая [статья](https://habr.com/ru/articles/842210/) которая поможет выбрать роутер  
 
 Xiaomi Router AX3000T (256mb MediaTek Filogic 820) -- [Видео](https://www.youtube.com/watch?v=Cx7kpqfwJP0&ab_channel=3DHOST) или [Текстовая инструкция](https://3dh.su/posts/370/ustanovka-3dhost-proxy-na-router) отдельный удобный метод прошивки
