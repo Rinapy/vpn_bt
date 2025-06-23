@@ -19,7 +19,9 @@ Xiaomi Router AX3000T (256mb MediaTek Filogic 820) -- [Видео](https://www.y
 **ВАЖНЫМ АСПЕКТОМ ЯВЛЯЯЕТЬСЯ ОБЪЁМ ПАМЯТИ НА РОУТЕРЕ 256** mb желательный минимум для v2ray
 
 По настройкам делаем все как на видео за исключением шага с настройкой v2rayA
-![Настройки](https://github.com/Rinapy/vpn_bt/raw/main/image.png)
+![Настройки](https://github.com/Rinapy/vpn_bt/raw/main/vpn1.png)
+
+![Настройки](https://github.com/Rinapy/vpn_bt/raw/main/vpn2.png)
 
 
 ## Keenetic
